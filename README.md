@@ -22,6 +22,7 @@
 1. react-native-svg
 1. react-native-screen
 1. styled-components
+1. typescript
 1. React/React Native Hooks
     - useState()
     - useEffect()
@@ -32,7 +33,7 @@
 1. Clone o projeto:
 
       ```git
-      👉   git clone https://github.com/thiagosf-dev/todo-list-mobile.git
+      👉   git clone https://github.com/thiagosf-dev/ignite-teams
       ```
 
 1. Instale as depêndencias do projeto:
