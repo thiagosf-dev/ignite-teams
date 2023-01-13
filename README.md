@@ -1,6 +1,6 @@
-# 📇 todo-list-mobile
+# 📇 teams lit
 
-## 📱 Aplicativo mobile para gerenciamento de tarefas
+## 📱 Aplicativo mobile para gerenciamento de grupos e seus participantes
 
 > 🚀 _Este projeto faz parte do módulo 02 de React Native do Ignite (Plataforma da Rocketseat)_
 
